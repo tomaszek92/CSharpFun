@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.StringMaskBenchmark", "CSharpFun.StringMaskBenchmark\CSharpFun.StringMaskBenchmark.csproj", "{5B3B82D7-AF6A-4187-B223-067ACE480D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.StringRandomGeneratorBenchmark", "CSharpFun.StringRandomGeneratorBenchmark\CSharpFun.StringRandomGeneratorBenchmark.csproj", "{6258CB08-2681-4498-886E-88E5659083CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5B3B82D7-AF6A-4187-B223-067ACE480D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B3B82D7-AF6A-4187-B223-067ACE480D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B3B82D7-AF6A-4187-B223-067ACE480D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6258CB08-2681-4498-886E-88E5659083CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6258CB08-2681-4498-886E-88E5659083CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6258CB08-2681-4498-886E-88E5659083CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6258CB08-2681-4498-886E-88E5659083CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

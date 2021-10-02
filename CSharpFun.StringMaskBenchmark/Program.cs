@@ -13,7 +13,7 @@ namespace CSharpFun.StringMaskBenchmark
         }
     }
 
-    [MemoryDiagnoser()]
+    [MemoryDiagnoser]
     public class Benchmarks
     {
         private const string Password = "Admin1234!@";
