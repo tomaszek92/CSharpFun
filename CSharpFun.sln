@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "benchmarks", "benchmarks", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.StringValues", "CSharpFun.StringValues\CSharpFun.StringValues.csproj", "{FD0D0DC6-A313-42F5-BF35-79009E92E83A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.SkipLocalsInit", "CSharpFun.SkipLocalsInit\CSharpFun.SkipLocalsInit.csproj", "{1DF3D24C-82DA-4637-929D-4E75F5354847}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{FD0D0DC6-A313-42F5-BF35-79009E92E83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD0D0DC6-A313-42F5-BF35-79009E92E83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD0D0DC6-A313-42F5-BF35-79009E92E83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF3D24C-82DA-4637-929D-4E75F5354847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF3D24C-82DA-4637-929D-4E75F5354847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF3D24C-82DA-4637-929D-4E75F5354847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF3D24C-82DA-4637-929D-4E75F5354847}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2227B5CD-362C-4412-90EC-8F6414333196} = {DC95F9FC-3792-41BF-998C-A6509899B27E}
