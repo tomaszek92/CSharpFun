@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.SkipLocalsInit", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.RemoveEvenFromArrayBenchmark", "benchmarks\CSharpFun.RemoveEvenFromArrayBenchmark\CSharpFun.RemoveEvenFromArrayBenchmark.csproj", "{F844FE41-6933-4371-9C28-FBC3BF9A34DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.MethodCalling", "CSharpFun.MethodCalling\CSharpFun.MethodCalling.csproj", "{6360903F-1B0A-4814-9896-B55FD1E51522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{F844FE41-6933-4371-9C28-FBC3BF9A34DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F844FE41-6933-4371-9C28-FBC3BF9A34DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F844FE41-6933-4371-9C28-FBC3BF9A34DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6360903F-1B0A-4814-9896-B55FD1E51522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6360903F-1B0A-4814-9896-B55FD1E51522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6360903F-1B0A-4814-9896-B55FD1E51522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6360903F-1B0A-4814-9896-B55FD1E51522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2227B5CD-362C-4412-90EC-8F6414333196} = {DC95F9FC-3792-41BF-998C-A6509899B27E}
