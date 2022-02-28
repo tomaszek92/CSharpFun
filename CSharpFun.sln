@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.RemoveEvenFromArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.MethodCalling", "CSharpFun.MethodCalling\CSharpFun.MethodCalling.csproj", "{6360903F-1B0A-4814-9896-B55FD1E51522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFun.Inheritance", "CSharpFun.Inheritance\CSharpFun.Inheritance.csproj", "{8153D0F5-3C08-4D89-91BD-CA5792771A2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{6360903F-1B0A-4814-9896-B55FD1E51522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6360903F-1B0A-4814-9896-B55FD1E51522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6360903F-1B0A-4814-9896-B55FD1E51522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8153D0F5-3C08-4D89-91BD-CA5792771A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8153D0F5-3C08-4D89-91BD-CA5792771A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8153D0F5-3C08-4D89-91BD-CA5792771A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8153D0F5-3C08-4D89-91BD-CA5792771A2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2227B5CD-362C-4412-90EC-8F6414333196} = {DC95F9FC-3792-41BF-998C-A6509899B27E}
